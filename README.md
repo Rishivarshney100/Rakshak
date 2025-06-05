@@ -1,6 +1,10 @@
+<div align="center">
+
 # 🛡️ Rakshak – Your Shield of Safety, Anytime, Anywhere
 
 **Rakshak** is a comprehensive women's safety application developed as part of **Vihaan 8.0**, built with proactive safety measures, real-time threat detection, and community-driven features to protect users in dangerous situations.
+
+</div>
 
 ---
 
