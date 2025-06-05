@@ -73,13 +73,19 @@ Crimes against women in India remain alarmingly high. Issues such as delayed eme
 
 ---
 
-## 🧺 Methodology & Workflow
+## 🧺 Methodology
 
 1. **Threat Detection:** AI-based detection using voice & fall sensors.
 2. **Emergency Response:** Auto-triggers SOS protocols (SMS, video, GPS).
 3. **Navigation & Logging:** Real-time path safety guidance & audit logs.
 4. **User Empowerment:** Preventive tools like fake calls and AI chatbot.
 5. **Community Input:** Publicly assess area safety via user submissions.
+
+---
+
+## 🧺 Workflow
+
+![image](https://github.com/user-attachments/assets/f34cc0c0-8d09-4ba9-b47b-fdeec524c9bd)
 
 ---
 
