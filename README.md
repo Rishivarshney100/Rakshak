@@ -108,32 +108,9 @@ Crimes against women in India remain alarmingly high. Issues such as delayed eme
 
 ---
 
-## 📸 UI Screens (To Be Added)
+## 📸 Sneak Peak
 
-> Screenshots of the app including homepage, SOS trigger, audit log page, and fake call screen can be added here using:
-
-```markdown
-![Home](screenshots/home.png)
-![SOS](screenshots/sos_trigger.png)
-...
-```
-
----
-
-## 📌 How to Run the Project
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/yourusername/rakshak.git
-   cd rakshak
-   ```
-
-2. Open with **Android Studio**.
-
-3. Set up Firebase project and add your `google-services.json`.
-
-4. Run the app on an emulator or real Android device.
+![image](https://github.com/user-attachments/assets/ce041988-0eb9-46f1-9b46-67f3fe2ecd1e)
 
 ---
 
@@ -146,15 +123,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## 📃 License
 
 [MIT](LICENSE)
-
----
-
-## 🙌 Acknowledgements
-
-* Vihaan 8.0 Hackathon Organizers
-* Google Cloud Platform for student credits
-* Firebase for backend services
-* Women Safety NGOs for domain inputs
 
 ---
 
